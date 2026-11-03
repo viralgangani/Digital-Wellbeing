@@ -1,0 +1,29 @@
+aa.py : UI(streamlit), load ML models on UI
+
+Training model files:
+  screan_time-fomo.ipynb
+  screan_time-life_satisfaction.ipynb
+  screan_time-loneliness.ipynb
+  screan_time-low_mood.ipynb
+  screan_time-mental_health.ipynb
+  screan_time-self_esteem.ipynb
+  screan_time-social_comparison.ipynb
+  screan_time-wellbeing.ipynb
+
+ML models:
+  screan_time-fomo.sav
+  screan_time-life_satisfaction.sav
+  screan_time-loneliness.sav
+  screan_time-low_mood.sav
+  screan_time-mental_health(le).sav
+  screan_time-self_esteem.sav
+  screan_time-social_comparison.sav
+  screan_time-wellbeing.sav
+
+Datasets:
+  social_media_screentime_mental_health_2026.csv
+  screan_time-mental_health.csv
+  screan_time-wellbeing.csv
+
+Analysis:
+  analys.html
