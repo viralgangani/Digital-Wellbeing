@@ -29,3 +29,6 @@ To create an interactive machine learning application that helps users understan
 
 ## Disclaimer
 This application provides machine learning-based estimates and general lifestyle suggestions. It is not a medical diagnostic tool and does not replace professional mental health advice.
+
+## File Details
+Read 1.File Information to get info about all files.....
